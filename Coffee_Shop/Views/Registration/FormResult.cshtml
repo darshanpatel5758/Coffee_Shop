@@ -1,0 +1,19 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model Coffee_Shop.Models.Registration.FormResultViewModel
+
+    <ul>
+        <li class="list-group-item">
+            <center> <h1><p>Welcome @Model.Fname @Model.Lname</p></h1>
+            <br />
+            <br />
+            <p>First Name: @Model.Fname</p>
+            <p>Last Name: @Model.Lname</p>
+            <p>Email : @Model.Email</p>
+            <p>Address : @Model.Address @Model.Address2</p>
+            <p>City : @Model.City</p>
+            <p>ZipCode : @Model.ZipCode</p></center>
+
+        </li>
+    </ul>

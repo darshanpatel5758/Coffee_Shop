@@ -21,8 +21,6 @@ D:\Grand Circus\Coffee_Shop\Coffee_Shop\obj\Debug\netcoreapp3.1\Coffee_Shop.TagH
 D:\Grand Circus\Coffee_Shop\Coffee_Shop\obj\Debug\netcoreapp3.1\Coffee_Shop.RazorCoreGenerate.cache
 D:\Grand Circus\Coffee_Shop\Coffee_Shop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 D:\Grand Circus\Coffee_Shop\Coffee_Shop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
-D:\Grand Circus\Coffee_Shop\Coffee_Shop\obj\Debug\netcoreapp3.1\Razor\Views\Registration\RegistrationForm.cshtml.g.cs
-D:\Grand Circus\Coffee_Shop\Coffee_Shop\obj\Debug\netcoreapp3.1\Razor\Views\Registration\RegistrationInfo.cshtml.g.cs
 D:\Grand Circus\Coffee_Shop\Coffee_Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
 D:\Grand Circus\Coffee_Shop\Coffee_Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 D:\Grand Circus\Coffee_Shop\Coffee_Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -37,3 +35,5 @@ D:\Grand Circus\Coffee_Shop\Coffee_Shop\obj\Debug\netcoreapp3.1\Coffee_Shop.dll
 D:\Grand Circus\Coffee_Shop\Coffee_Shop\obj\Debug\netcoreapp3.1\Coffee_Shop.pdb
 D:\Grand Circus\Coffee_Shop\Coffee_Shop\obj\Debug\netcoreapp3.1\Coffee_Shop.genruntimeconfig.cache
 D:\Grand Circus\Coffee_Shop\Coffee_Shop\obj\Debug\netcoreapp3.1\Coffee_Shop.csproj.CopyComplete
+D:\Grand Circus\Coffee_Shop\Coffee_Shop\obj\Debug\netcoreapp3.1\Razor\Views\Registration\Form.cshtml.g.cs
+D:\Grand Circus\Coffee_Shop\Coffee_Shop\obj\Debug\netcoreapp3.1\Razor\Views\Registration\FormResult.cshtml.g.cs

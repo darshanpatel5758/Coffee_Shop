@@ -9,12 +9,12 @@ namespace Coffee_Shop.Controllers
 {
     public class RegistrationController : Controller
     {
-        public IActionResult RegistrationForm()
+        public IActionResult Form()
         {
             return View();
         }
 
-        public IActionResult FormView(RegistrationViewModel model)
+        public IActionResult FormResult(FormResultViewModel model)
         {
             return View(model);
         }
